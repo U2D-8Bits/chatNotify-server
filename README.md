@@ -16,11 +16,13 @@ Aplicación web de chat en tiempo real utilizando websockets junto con notificac
 
 ## Instrucciones
 
-1. Copiar el archivo ``.env.template`` y renombrarlo a ``.env`` 
+1. Ejecutar el comando ``npm i``
 
-2. Colocar la información correspondiente en cada variable del archivo ``.env``
+2. Copiar el archivo ``.env.template`` y renombrarlo a ``.env`` 
 
-3. Ejecutar la aplicación con el comando ``npm run start:dev``
+3. Colocar la información correspondiente en cada variable del archivo ``.env``
+
+4. Ejecutar la aplicación con el comando ``npm run start:dev``
 
 ## Ejecutar Aplicación
 
