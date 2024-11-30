@@ -14,7 +14,15 @@
 
 Aplicación web de chat en tiempo real utilizando websockets junto con notificaciones usando SSE (Server-Sent Events)
 
-## Running the app
+## Instrucciones
+
+1. Copiar el archivo ``.env.template`` y renombrarlo a ``.env`` 
+
+2. Colocar la información correspondiente en cada variable del archivo ``.env``
+
+3. Ejecutar la aplicación con el comando ``npm run start:dev``
+
+## Ejecutar Aplicación
 
 ```bash
 # development
